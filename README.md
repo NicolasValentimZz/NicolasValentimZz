@@ -1,4 +1,4 @@
-<h1 align="left">Olá! Eu Nícolas Valentim</h1>
+<h1 align="left">Olá! Eu sou Nícolas Valentim</h1>
 
 - Estudante de Analise e Desenvolvimento de Sistemas na UNIVERSIDADE PAULIS - UNIP
 
