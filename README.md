@@ -1,6 +1,6 @@
 <h1 align="left">Olá! Eu sou Nícolas Valentim</h1>
 
-- Estudante de Analise e Desenvolvimento de Sistemas na UNIVERSIDADE PAULIS - UNIP
+- Estudante de Analise e Desenvolvimento de Sistemas na UNIVERSIDADE PAULISTA - UNIP
 
 <br><br>
 ## 🛠 &nbsp;Tecnologias
