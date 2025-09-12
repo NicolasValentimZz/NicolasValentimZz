@@ -25,7 +25,7 @@
 <p align="left">
   - 🔭 No que estou trabalhando... projetos pessoais em C# com integração SQL para APIs backend simples, como um gerenciador de tarefas que roda no Linux.<br>
   - 📚 No que estou estudando... desenvolvimento backend, focando em APIs RESTful e bancos de dados relacionais – comecei a programar em fevereiro deste ano e já estou construindo minha base ninja!<br>
-  - ⚡ Fato divertido... Sou surdo, mas isso só me tornou mais focado e "ninja" no código – e adoro resolver bugs como se fossem quebra-cabeças! ♟️
+  - ⚡ Fato divertido... Sou surdo, mas isso só me tornou mais focado no código!
 </p>
 
 ###
